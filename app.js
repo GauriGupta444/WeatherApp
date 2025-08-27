@@ -5,6 +5,8 @@ const searchBox = document.querySelector(".search input");
 const searchBtn = document.querySelector(".search button");
 const weatherIcon = document.querySelector(".weather-icon");
 
+console.log("Super Important Feature Added");
+
 
 
 async function checkWeather(city){
